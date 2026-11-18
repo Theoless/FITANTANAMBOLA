@@ -2,7 +2,7 @@
 
 Application mobile Android de gestion financière (suivi des revenus, dépenses, parrainage, chat et mises à jour automatiques).
 
-📥 **[Télécharger la dernière version (APK) ici](https://github.com/Theoless/FITANTANAMBOLA/releases/latest)**
+📥 **[Télécharger directement la dernière version (APK)](https://github.com/Theoless/FITANTANAMBOLA/releases/latest/download/FITANTANAMBOLA.apk)**
 
 ### 🚀 Fonctionnalités :
 * Suivi des entrées et sorties d'argent (vola miditra sy mivoaka).
