@@ -17,3 +17,4 @@ Exportez vos rapports financiers facilement sous formats :
 * **Images** : JPEG et PNG.
 
 > ⚠️ **Note de sécurité** : Si Android affiche un avertissement *« Application potentiellement dangereuse »* ou *« Application inconnue »* lors de l'installation, vous pouvez poursuivre en appuyant sur *« Installer quand même »* (ou *« Plus de détails » > « Installer en tout cas »).
+ 
